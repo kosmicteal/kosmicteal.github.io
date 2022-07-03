@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
 .btn-kustom {
     --bs-btn-bg: #0f755f;
+}
+
+.abel-font{
+    font-family: 'Abel', sans-serif;
 }
