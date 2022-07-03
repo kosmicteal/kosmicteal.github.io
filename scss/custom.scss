@@ -40,5 +40,5 @@ $custom-colors: (
 $theme-colors: map-merge($theme-colors, $custom-colors);
 
 .btn-kustom {
-    --bs-btn-bg: #0f755f
+    --bs-btn-bg: #0f755f;
 }
