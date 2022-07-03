@@ -1,0 +1,7 @@
+.btn-kustom {
+    --bs-btn-bg: #0f755f;
+}
+
+button.btn.btn-kustom {
+    --bs-btn-bg: #0f755f;
+}
