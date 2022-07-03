@@ -6,6 +6,6 @@ $custom-colors: (
 // Merge the maps
 $theme-colors: map-merge($theme-colors, $custom-colors);
 
-button.btn.btn-kustom {
+.btn-kustom {
     --bs-btn-bg: #0f755f;
 }
