@@ -3,21 +3,21 @@
     "i18ntest": "Traducci\u00F3 al catal\u00E0"
   },
   "header": {
-    "subtitle": "Desarrollador Full-stack y de UX/UI",
-    "description": "Saludos! Soy KosmicTeal, un desarrollador estilo \u0022navaja suiza\u0022 con experiencia en varios lenguajes de programaci\u00F3n como C#, C\u002B\u002B, Java, python, y HTML5/CSS entre otros; adem\u00E1s de trabajar con software de virtualizaci\u00F3n como VirtualBox y Docker.\nTambi\u00E9n tengo algunos conocimientos en la creaci\u00F3n de extensiones para hojas de c\u00E1lculo y sistemas ofim\u00E1ticos como VBS (Excel) o JavaScript (HTML5 y Google Apps).\n\nAparte de esto y como hobby, tambi\u00E9n soy ilustrador, creador de modelos 3D y jugador de TTRPGs. Algunos de mis proyectos personales han sido impulsados por el desarrollo de aplicaciones y herramientas para hacer mis aficiones m\u00E1s agradables."
+    "subtitle": "Desarrollador Full-stack i de UX/UI",
+    "description": "Salutacions! Sóc KosmicTeal, un desenvolupador estil \"navalla suïssa\" amb experiència en diversos llenguatges de programació com C#, C++, Java, python, i HTML5/CSS entre d'altres; a més de treballar amb programari de virtualització com VirtualBox i Docker.\nTambé tinc alguns coneixements en la creació d'extensions per a fulls de càlcul i sistemes ofimàtics com ara VBS (Excel) o JavaScript (HTML5 i Google Apps).\n\nA banda d'això i com a hobby, també sóc il·lustrador, creador de models 3D i jugador de TTRPGs. Alguns dels meus projectes personals han estat impulsats pel desenvolupament d'aplicacions i eines per fer les meves aficions més agradables."
   },
   "card": {
     "language": "Idioma",
-    "change-to-night-mode": "Cambiar a modo nocturno",
-    "change-to-light-mode": "Cambiar a modo diurno",
-    "personal-projects": "Proyectos personales",
-    "more-information": "M\u00E1s informaci\u00F3n",
-    "last-updated": "\u00DAltima actualizaci\u00F3n",
-    "number-plugins": "N.\u00BA de plugins",
-    "intended-for": "Uso junto a",
-    "source-code": "C\u00F3digo fuente",
-    "download": "Descarga",
-    "unavailable": "Privado",
+    "change-to-night-mode": "Cambiar a mode nocturn",
+    "change-to-light-mode": "Cambiar a modo diurn",
+    "personal-projects": "Proyectes personals",
+    "more-information": "Més informació",
+    "last-updated": "Última actualització",
+    "number-plugins": "Nre de plugins",
+    "intended-for": "Utilitzar amb",
+    "source-code": "Codi font",
+    "download": "Descàrrega",
+    "unavailable": "Privat",
     "video-demo": "Demo Visual"
   },
   "projects": {
