@@ -1,0 +1,102 @@
+{
+  "debug": {
+    "i18ntest": "Traducci\u00F3n al espa\u00F1ol"
+  },
+  "header": {
+    "subtitle": "Desarrollador Full-stack y de UX/UI",
+    "description": "Saludos! Soy KosmicTeal, un desarrollador estilo \u0022navaja suiza\u0022 con experiencia en varios lenguajes de programaci\u00F3n como C#, C\u002B\u002B, Java, python, y HTML5/CSS entre otros; adem\u00E1s de trabajar con software de virtualizaci\u00F3n como VirtualBox y Docker.\nTambi\u00E9n tengo algunos conocimientos en la creaci\u00F3n de extensiones para hojas de c\u00E1lculo y sistemas ofim\u00E1ticos como VBS (Excel) o JavaScript (HTML5 y Google Apps).\n\nAparte de esto y como hobby, tambi\u00E9n soy ilustrador, creador de modelos 3D y jugador de TTRPGs. Algunos de mis proyectos personales han sido impulsados por el desarrollo de aplicaciones y herramientas para hacer mis aficiones m\u00E1s agradables."
+  },
+  "card": {
+    "language": "Idioma",
+    "change-to-night-mode": "Cambiar a modo nocturno",
+    "change-to-light-mode": "Cambiar a modo diurno",
+    "personal-projects": "Proyectos personales",
+    "more-information": "M\u00E1s informaci\u00F3n",
+    "last-updated": "\u00DAltima actualizaci\u00F3n",
+    "number-plugins": "N.\u00BA de plugins",
+    "intended-for": "Uso junto a",
+    "source-code": "C\u00F3digo fuente",
+    "download": "Descarga",
+    "unavailable": "Privado",
+    "video-demo": "Demo Visual"
+  },
+  "projects": {
+    "WEB": {
+      "card-title": "Sitio web en Github",
+      "card-text": "Est\u00E1s aqu\u00ED. Esta secci\u00F3n te ense\u00F1ar\u00E1 un poco de informaci\u00F3n sobre este sitio y su desarrollo.",
+      "modal-label": "Web de KosmicTeal en Github",
+      "modal-description": "Pues aqu\u00ED est\u00E1s. Este es el primer proyecto que he hecho para poder mostrar mis aptitudes con un sitio web totalmente personalizado, usando Bootstrap como base y haciendo todo el resto a mano.\nLa est\u00E9tica general de este sitio se basa en la interfaz del aclamado juego Final Fantasy\u00AE\uFE0F XIV de Square Enix, hecha a trav\u00E9s de par\u00E1metros CSS.\nEn el 14/01/2023, fue a\u00F1adido un Modo Nocturno y Diurno.\nLas traducciones y el rework de esta p\u00E1gina con React y Vite fueron realizadas el 26/08/2023.",
+      "credits": "Final Fantasy XIV pertenece a Square Enix. Esta p\u00E1gina no est\u00E1 afiliada con Square Enix, soy solo un fan que disfruta de su arte."
+    },
+    "CTS": {
+      "card-title": "ClipTheSurface",
+      "card-text": "Superposici\u00F3n que te permite el uso de varias herramientas mientras dibujas en Clip Studio Paint.",
+      "modal-label": "ClipTheSurface",
+      "modal-description": "Este software funciona en modo superposici\u00F3n y emula las teclas modificadoras como las teclas de flecha a tu PC.\nEn el \u0022Modo de enfoque completo\u0022, mostrado con un icono de tablet, pone Clip Studio Paint en un modo \u0022sin men\u00FA\u0022, cambia la configuraci\u00F3n de Windows para que la barra de tareas se oculte autom\u00E1ticamente mientras el modo est\u00E1 activado y muestra un reloj en caso de que quieras tener en cuenta la hora sin mostrar la barra de tareas.\nEsta aplicaci\u00F3n fue creada con la plataforma Surface en mente, pero tambi\u00E9n funcionar\u00E1 en cualquier otro tipo de Tablet PC.\n\nComo nota, esta aplicaci\u00F3n siempre estar\u00E1 en la parte central derecha de tu pantalla, sin importar si est\u00E1s en modo vertical u horizontal, y se puede ocultar cuando quieras. Tambi\u00E9n tiene una funci\u00F3n especial que, si se vincula a una acci\u00F3n del bot\u00F3n del l\u00E1piz, puedes abrir o cerrar la aplicaci\u00F3n directamente.",
+      "credits": "Clip Studio Paint pertenece a CELSYS."
+    },
+    "ESD": {
+      "card-title": "EasySynthDrop",
+      "card-text": "Crea nuevas pistas arrastrando y soltando tus bancos de Synthesizer V Studio en el programa.",
+      "modal-label": "EasySynthDrop",
+      "modal-description": "Este software lee tu carpeta de bancos de voz de SynthV y te permite arrastrar y soltar uno de tus bancos (la \u00FAltima versi\u00F3n que hayas instalado) en SynthV para crear una nueva pista f\u00E1cilmente.\n\n\u00DAnicamente lee el nombre de las carpetas de cada banco, crea un archivo vac\u00EDo y te permite soltarlo en el programa, por lo que es seguro de utilizar.\n\nUna peque\u00F1a nota, este es el primer software que he hecho que tiene en cuenta el DPI de tu pantalla, con sus animaciones y tama\u00F1o relativo compatibles a los cambios de DPI.",
+      "credits": "Synthesizer V Studio pertenece a Dreamtonics."
+    },
+    "KVMA": {
+      "card-title": "KosmicVMApplets",
+      "card-text": "Grupo de applets que te permiten facilitar el uso de VirtualBox para ahorrarte el abrir el terminal.",
+      "modal-label": "KosmicVMApplets",
+      "modal-description": "Estos applets permiten interactuar f\u00E1cilmente con vboxmanage.exe de VirtualBox para que los usuarios no necesiten entrar en el CMD de Windows.\nDurante mi aprendizaje, me encontr\u00E9 con la necesidad de acceder a algunos datos u organizar mis M\u00E1quinas Virtuales de una manera f\u00E1cil. Como tambi\u00E9n nos est\u00E1bamos centrando en aprender m\u00E1s sobre WinForms y Visual Studio, decid\u00ED crear estos para hacer mi aprendizaje un poco m\u00E1s f\u00E1cil.\n\nActualmente hay dos applets:\n\n\u2022 VMIPCheck: Muestra una notificaci\u00F3n de Windows con la IP principal de tu MV\n\u2022 VMIconChange: Applet con una UI sencilla que te permite cambiar el icono de la VM que quieras en lugar de escribirlo en el terminal.",
+      "credits": "VirtualBox pertenece a Oracle."
+    },
+    "PSH": {
+      "card-title": "Project SKILL_H",
+      "card-text": "Hoja de Personaje personalizada para Roll20 con scripts y botones para realizar tiradas autom\u00E1ticas.",
+      "modal-label": "Project SKILL_H",
+      "modal-description": "Hoja de Personaje hecha a medida en HTML5, CSS y Javascript, basada en un sistema de TTRPG (TableTop RolePlay Game) personalizado.\n\nCreada como regalo para una de mis mejores amigas, esta hoja se hizo principalmente con CSS grids y llamadas al sistema de Roll20. Tambi\u00E9n incluye plantillas personalizadas para las tiradas de dados, el inventario y las habilidades.\n\nAl estar hecha para un juego TTRPG, tambi\u00E9n es altamente personalizable y din\u00E1mica, para que la gente pueda jugarla y mejorarla con el tiempo. Como extra, tambi\u00E9n es compatible con el nuevo Modo Nocturno de Roll20.",
+      "credits": "Roll20 pertenece a The Orr Group. Sistema de TTRPG creado por @yaseiranryu. Beta-testeado por @kurohaine97, @heniasama and @nise_loftsteinn. (en Tw*tter)"
+    },
+    "VOC": {
+      "card-title": "VoCatalogue",
+      "card-text": "Aplicaci\u00F3n que permite a los usuarios realizar un seguimiento de sus c\u00F3digos de activaci\u00F3n de TTS.",
+      "modal-label": "VoCatalogue",
+      "modal-description": "Peque\u00F1a aplicaci\u00F3n que te permite guardar tus C\u00F3digos de activaci\u00F3n de diferentes TTS (sintetizadores de texto a voz) y su ubicaci\u00F3n en el disco.\n\nNo es tan peque\u00F1o como parece, ya que entonces era la aplicaci\u00F3n m\u00E1s extensa que hice y me quer\u00EDa esforzar en aprender m\u00E1s all\u00E1 de hacer una interfaz de usuario con WinForms. Tambi\u00E9n cuenta con soporte para exportar los datos en un JSON para facilitar los usuarios guardar sus datos f\u00E1cilmente.\nNo se actualiza actualmente, pero el programa permite introducir datos sobre una gran parte de los softwares de sintetizador de voz lanzados desde 2006 hasta 2021. Todo queda guardado localmente en tu ordenador, por supuesto, sin filtraciones de datos ni nada por el estilo.",
+      "credits": "Miniaturas hechas por LuxiayK. Cada personaje pertenece a su respectiva compa\u00F1ia."
+    },
+    "VSP": {
+      "card-title": "VocalSynthPlugins",
+      "card-text": "Plugins para diferentes sintetizadores de voz que permiten scripts para facilitar su uso.",
+      "modal-label": "VocalSynthPlugins",
+      "modal-description": "Grupo de Plugins que fueron creados con el fin de hacer m\u00E1s f\u00E1cil el flujo de trabajo musical en sintetizadores de voz que permiten scripts.\n\nLa API de los sintetizadores era bastante restrictiva en su momento por lo que, no pod\u00EDa dejar fluir mucho mi imaginaci\u00F3n, y mucho menos cuando tratar de encontrar SDK/API de software antiguo era casi imposible. Sin embargo, pude hacer algunos addons solicitados por la comunidad. Actualmente hay tres addons:\n\n\u2022 ListKeyNotes: Crea notas de la misma longitud en una escala espec\u00EDfica\n\u2022 Crash-B-Gone for Tonio: Sustituye todas las @ por V\n\u2022 VocaAutoPitch (April Fools 2021): A\u00F1ade las cuatro primeras notas de Megalovania de Toby Fox de UNDERTALE.",
+      "credits": "VOCALOID pertenece a Yamaha."
+    },
+    "LBS": {
+      "card-title": "LameBlenderScripts",
+      "card-text": "Conjunto de plugins para Blender (2.8\u002B) creados para mejorar el flujo en el desarrollo de modelos 3D.",
+      "modal-label": "LameBlenderScripts",
+      "modal-description": "Grupo de Plugins que fueron adaptados a partir de c\u00F3digo existente con el fin de hacer varias tareas de desarrollo 3D m\u00E1s f\u00E1ciles.\n\nTard\u00E9 alrededor de un mes en tener el conjunto completo, ya que estaba desarrollando un modelo y estaba cansado de hacer cosas repetitivas manualmente. Las principales funcionalidades son:\n\n\u2022 Refleja las Shapekeys acabadas en .L y crea versiones duales (.L\u002B.R)\n\u2022 Selecciona huesos en orden, conect\u00E1ndolos y renombrando toda la pila con la nomenclatura est\u00E1ndar padre-hijo\n\u2022 Invirtie el eje de cola de los huesos, para ser usado con la funcionalidad anterior o por s\u00ED mismo\n\u2022 Renombra huesos y grupos de v\u00E9rtices de Standard Blender a Standard MikuMikuDance\n\u2022 A\u00F1ade objetos vac\u00EDos que m\u00E1s tarde ser\u00EDan entendidos por mmd_tools como Joints.",
+      "credits": "Blender pertenece a Blender Foundation. Adaptado de trozos de c\u00F3digo pertenecientes a p2or, brockmann, Opponent019, batFINGER y Lemon de Blender\u0027s Stackexchange."
+    },
+    "CS": {
+      "card-title": "ColorSynth",
+      "card-text": "Aplicaci\u00F3n que permite a los usuarios editar los colores de sus pistas en SynthV.",
+      "modal-label": "ColorSynth",
+      "modal-description": "Aplicaci\u00F3n que se cre\u00F3 en primer lugar como una forma de personalizar el color de cada \u0022pista\u0022 disponible en un proyecto de Synthesizer V Studio sin necesidad de usar ning\u00FAn tipo de Plugin.\n\nEsto se hizo r\u00E1pidamente en una tarde mientras intentaba leer c\u00F3mo se generaban los archivos .svp y aprend\u00EDa a leer y escribir datos en un archivo JSON. Como por aquel entonces s\u00F3lo programaba UIs con Windows Forms, tuve que ce\u00F1irme a ese m\u00E9todo durante un buen tiempo.\n\nDos a\u00F1os despu\u00E9s del lanzamiento de este proyecto, la versi\u00F3n 1.10.0b1 de Synthesizer V Studio inclu\u00EDa una forma de cambiar los colores de las pistas directamente desde la propia interfaz con algunos colores predeterminados.",
+      "credits": "Synthesizer V Studio pertenece a Dreamtonics."
+    },
+    "SPC": {
+      "card-title": "SpectraCode",
+      "card-text": "Plugin para Visual Studio Code que permite a los usuarios elegir un color para identificar espacios de trabajo.",
+      "modal-label": "SpectraCode",
+      "modal-description": "Esta extensi\u00F3n te permite cambiar el color de elementos clave de la UI dentro de un workspace para poder identificar f\u00E1cilmente entre diferentes estancias del mismo programa.\n\nLa principal diferencia con otras extensiones similares es que incluye un selector de color cl\u00E1sico para poder personalizarlo sin necesidad de aprender colores Hex.\n\nTambi\u00E9n, puedes escoger si quieres extender este cambio a la Paleta de Comandos o a la Barra del T\u00EDtulo, escribir el color Hex manualmente por si tienes un color favorito en concreto o restablecer los cambios para disfrutar del tema escogido en su originalidad.",
+      "credits": "Visual Studio Code pertenece a Microsoft. Logo hecho por LuxiayK. Realizado con c\u00F3digo de James Daniel (iro.js) y Sinan Aksay (Dynamic Text functions on Javascript)."
+    },
+    "PLS": {
+      "card-title": "Planisphere",
+      "card-text": "Aplicaci\u00F3n interna que permite actualizar f\u00E1cilmente esta misma p\u00E1gina. A parte se ve muy guay.",
+      "modal-label": "Planisphere",
+      "modal-description": "Esta aplicaci\u00F3n permite que este sitio web sea f\u00E1cilmente actualizable.\n\nDesde su remake de HTML5/CSS sencillo a React\u002BVite, los datos de este sitio web se manejan a trav\u00E9s de archivos JSON. Como escribir manualmente los archivos JSON puede ser un poco pesado, por no hablar de traducirlos, he desarrollado una aplicaci\u00F3n WPF para hacer mi workflow m\u00E1s f\u00E1cil.\n\nA\u00FAn est\u00E1 un poco cogida con pinzas, de ah\u00ED que s\u00F3lo sea una herramienta \u0022interna\u0022. Las futuras actualizaciones previstas son permitir la eliminaci\u00F3n de datos, botones centrados en hacer el workflow a\u00FAn m\u00E1s r\u00E1pido, el poder a\u00F1adir nuevos idiomas y la traducci\u00F3n de algunos datos no relacionados con los proyectos tambi\u00E9n.",
+      "credits": "Interfaz hecha con el paquete NuGet de MahApps.Metro."
+    }
+  }
+}

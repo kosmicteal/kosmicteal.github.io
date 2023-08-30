@@ -1,0 +1,102 @@
+{
+  "debug": {
+    "i18ntest": "English translation"
+  },
+  "header": {
+    "subtitle": "Full-stack and UX/UI developer",
+    "description": "Greetings! I\u0027m KosmicTeal, a developer with \u0022Swiss-knife\u0022 experience on various programming languages such as C#, C\u002B\u002B, Java, python, and HTML5/CSS among others; alongside working with Virtualization software such as VirtualBox and Docker.\nI also have some knowledge on creating add-ons for spreadsheets and office automation systems such as VBS (Excel) or JavaScript (HTML5 and Google Apps).\n\nAside from this and as a hobby, I\u0027m also an illustrator artist, 3D model creator and TTRPG player. Some of my personal projects have been fueled by developing apps and add-ons to make my hobbies more enjoyable."
+  },
+  "card": {
+    "language": "Language",
+    "change-to-night-mode": "Change to Night Mode",
+    "change-to-light-mode": "Change to Light Mode",
+    "personal-projects": "Personal projects",
+    "more-information": "More information",
+    "last-updated": "Last updated",
+    "number-plugins": "No. of plugins",
+    "intended-for": "Intended for",
+    "source-code": "Source code",
+    "download": "Download",
+    "unavailable": "Unavailable",
+    "video-demo": "Video Demo"
+  },
+  "projects": {
+    "WEB": {
+      "card-title": "GitHub website",
+      "card-text": "You\u0027re here. This card will show a bit of info about this website and its development.",
+      "modal-label": "KosmicTeal Github website",
+      "modal-description": "So, here you are. This is the first project I\u0027ve done to showcase myself properly with a fully customized website, using Bootstrap as a base and doing the entire rest by hand.\nThe general visual aesthetic of this site is based on Square Enix\u0027s acclaimed Final Fantasy\u00AE\uFE0F XIV game User Interface, done via CSS parameters.\n\nDark/Light Mode was added on 14/01/2023.\n\nTranslations and a rework of this page with React and Vite was done on 26/08/2023.",
+      "credits": "Final Fantasy XIV belongs to Square Enix. This page is not affiliated with Square Enix, just a fan enjoying their art."
+    },
+    "CTS": {
+      "card-title": "ClipTheSurface",
+      "card-text": "Overlay that allows you various tools to keep yourself focused while drawing on Clip Studio Paint.",
+      "modal-label": "ClipTheSurface",
+      "modal-description": "This software works as an overlay and sends inputs to your PC, emulating both modifier and arrow keys.\n\u0022Full Focus Mode\u0022, shown with a tablet icon, puts Clip Studio Paint on a \u0022menu-less\u0022 mode, changes your Windows Settings for your taskbar\u0027s auto-hide while the mode is on and shows you a timewatch in case you want to keep track of your time without un-hiding your taskbar.\nThis app was created with a Surface platform in mind but it will also work on any other type of Tablet PC.\n\nAs a note, this app will always be in the middle right part of your screen, no matter if you\u0027re on Portrait or Landscape mode, and it can be hidden as you wish. It also has a special function that, if linked to a Pen Button action, you can open or close the app manually.",
+      "credits": "Clip Studio Paint belongs to CELSYS."
+    },
+    "ESD": {
+      "card-title": "EasySynthDrop",
+      "card-text": "Create new tracks by drag-and-dropping your Synthesizer V Studio banks into the engine.",
+      "modal-label": "EasySynthDrop",
+      "modal-description": "This software reads your SynthV database folder and allows you to drag-and-drop one of your databases (the last version you have installed) into SynthV to create a new track easily.\n\nIt just reads your folders, creates an empty file and allows you to drop it into the engine so it\u0027s safe to use.\n\nAs a small note, this is the first software that I\u0027ve done that has DPI-awareness compatible animations and resizes perfectly depending on your screen.",
+      "credits": "Synthesizer V Studio belongs to Dreamtonics."
+    },
+    "KVMA": {
+      "card-title": "KosmicVMApplets",
+      "card-text": "Group of applets that allow you to add some QoL in VirtualBox to save up opening the terminal.",
+      "modal-label": "KosmicVMApplets",
+      "modal-description": "These applets allow easy interaction with VirtualBox\u0027s vboxmanage.exe so users don\u0027t need to get into Windows\u0027 CMD.\nDuring my learning period, I found myself with the need of access to some data or organize my Virtual Machines in an easy way. As we were also focusing on learning more about WinForms and Visual Studio, I decided to create these to make my learning a bit easier.\n\nCurrently there\u0027s two applets:\n\n\u2022 VMIPCheck: Shows a Windows Notification with the main IP of your desired VM\n\u2022 VMIconChange: UI-friendly applet that changes the icon of the VM you want instead of writing it on the terminal.",
+      "credits": "VirtualBox belongs to Oracle."
+    },
+    "PSH": {
+      "card-title": "Project SKILL_H",
+      "card-text": "Customized Character Sheet for Roll20 that includes custom scripts and functional button rolls.",
+      "modal-label": "Project SKILL_H",
+      "modal-description": "Tailored character sheet built in HTML5, CSS and Javascript, based on a custom TTRPG (TableTop RolePlay Game) system.\n\nDone as a gift for one of my best friends, this sheet was done mainly with CSS grids and calls towards Roll20\u0027s system. It also includes custom templates for dice rolls, inventory and abilities.\n\nAs it\u0027s done for a TTRPG game, it\u0027s also highly customizable and dynamic, so people can play it and improve it over time. As an extra, it\u0027s also compatible with Roll20\u0027s new Night Mode.",
+      "credits": "Roll20 belongs to The Orr Group. TTRPG System created by @yaseiranryu. Beta-tested by @kurohaine97, @heniasama and @nise_loftsteinn. (Tw*tter accounts)"
+    },
+    "VOC": {
+      "card-title": "VoCatalogue",
+      "card-text": "Standalone application that allows users to keep track of their Vocal Synthesizer Activation Codes.",
+      "modal-label": "VoCatalogue",
+      "modal-description": "Small app that allows you to save your TTS (text-to-speech) Software activation codes and its installer locations.\n\nNot as small as it looks like, because at the time it was the most extensive app I did and I wanted to push myself into learning something else UI-related aside WinForms. It also features some JSON mumbo-jumbo that would facilitate users to save their data easily.\n\nIt\u0027s not currently updated but you can input your data for a big chunk of released Voice Synthesizer softwares released from 2006 to 2021. All saved locally on your computer of course, no data breaches or such.",
+      "credits": "Character thumbnails were done by LuxiayK. Each character belongs to their respective company."
+    },
+    "VSP": {
+      "card-title": "VocalSynthPlugins",
+      "card-text": "\u0022Quality of Life\u0022 plugins for various Signing Voice Synthesizers that allow scripting.",
+      "modal-label": "VocalSynthPlugins",
+      "modal-description": "Group of Plugins that were created in order to make music workflow easier on Singing Voice Synthesizers that allow scripting.\n\nVocal Synth\u0027s API was pretty restricting back in the time so, I couldn\u0027t let my imagination flow much, let alone when trying to find SDK/API from older software was close to impossible. However, I could do some requested addons by the community. Currently there\u0027s three addons:\n\n\u2022 ListKeyNotes: Creates same-length notes in a specific key\n\u2022 Crash-B-Gone for Tonio: Replaces all @ for V\n\u2022 VocaAutoPitch (April Fools 2021): Adds the first four notes of Toby Fox\u0027s Megalovania from UNDERTALE.",
+      "credits": "VOCALOID belongs to Yamaha."
+    },
+    "LBS": {
+      "card-title": "LameBlenderScripts",
+      "card-text": "Blender (2.8\u002B) plugin set made in order to improve 3D model development\u0027s workflow.",
+      "modal-label": "LameBlenderScripts",
+      "modal-description": "Group of Plugins that were adapted from existing code and adapted in order to make various 3D development tasks easier.\n\nIt took around a month to have the ensemble completed, as I was developing a model and I was tired of doing repetitive stuff manually. The main functionalities are:\n\n\u2022 Mirroring .L Shapekeys and adding extra .L\u002B.R ones\n\u2022 Selecting Bones in order, connecting them and renaming the entire stack with the standard parent-child nomenclature\n\u2022 Inverting the Bone tail axis, to be used with the previous functionality or by itself\n\u2022 Renaming Bones and Vertex Groups from Standard Blender to Standard MikuMikuDance\n\u2022 Adding Empty Objects that would later be understood by mmd_tools as Joints",
+      "credits": "Blender belongs to Blender Foundation. Adapted from code snippets belonging to p2or, brockmann, Opponent019, batFINGER and Lemon from Blender\u0027s Stackexchange."
+    },
+    "CS": {
+      "card-title": "ColorSynth",
+      "card-text": "Standalone application that enables users to edit the colours of their SynthV singer tracks.",
+      "modal-label": "ColorSynth",
+      "modal-description": "Standalone app that was firstly created as a way to customize the colour of each \u0022track\u0022 that was available on a Synthesizer V Studio project file without the need of any type of Plug-in.\n\nThis was done swiftly in an evening while trying to read how .svp files were generated and learning how to read and write data unto a JSON file. As by that time I only did program UIs with Windows Forms, I had to stick with that method for a good while.\n\nTwo years after the release of this project, Synthesizer V Studio\u0027s 1.10.0b1 release included a way to change the tracks colours directly from the interface itself with some premade swatches.",
+      "credits": "Synthesizer V Studio belongs to Dreamtonics."
+    },
+    "SPC": {
+      "card-title": "SpectraCode",
+      "card-text": "Plugin for Visual Studio Code that enables users to color-pick an accent colour to identify workspaces.",
+      "modal-label": "SpectraCode",
+      "modal-description": "This extension will allow you change your workspace activity bar and notifications\u0027 background colour easily! Just grab the mouse and select your desired colour in the color picker. This is also the first extension I\u0027ve done for VSCode.\n\nThe main difference with other similar extensions is that it includes a classic colour picker so you can customise it without having to learn Hex colours.\n\nAlso, you can choose whether you want to extend this change to the Command Palette or Menu Bar, type the Hex colour manually in case you have a particular favourite colour or reset the changes to enjoy the chosen theme without any changes.",
+      "credits": "Visual Studio Code belongs to Microsoft. Logo by LuxiayK. Code snippets by James Daniel (iro.js) and Sinan Aksay (Dynamic Text functions on Javascript)."
+    },
+    "PLS": {
+      "card-title": "Planisphere",
+      "card-text": "Homebrewed app that allows this precise page to be easily updated.\r\nIt looks pretty cool too.",
+      "modal-label": "Planisphere",
+      "modal-description": "This application allows this website to be easily updateable.\r\n\r\nSince its remake from plain HTML5/CSS to React\u002BVite, the data on this website is handled via JSON files. As manually writing JSON files can be a bit tiring, let alone translating them, I developed a WPF app to make my workflow easier.\r\n\r\nIt\u0027s still a bit rough on the edges, hence why it\u0027s only an \u0022in-house\u0022 tool. Future planned updates are to allow deletion of data, buttons focused on making the workflow even faster, addition of new languages and translating some non-project data as well.",
+      "credits": "Interface made with MahApps.Metro\u0027s NuGet package."
+    }
+  }
+}
