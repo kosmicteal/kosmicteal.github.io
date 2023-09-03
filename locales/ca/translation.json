@@ -4,19 +4,19 @@
   },
   "header": {
     "subtitle": "Desarrollador Full-stack i de UX/UI",
-    "description": "Salutacions! Sóc KosmicTeal, un desenvolupador estil \"navalla suïssa\" amb experiència en diversos llenguatges de programació com C#, C++, Java, python, i HTML5/CSS entre d'altres; a més de treballar amb programari de virtualització com VirtualBox i Docker.\nTambé tinc alguns coneixements en la creació d'extensions per a fulls de càlcul i sistemes ofimàtics com ara VBS (Excel) o JavaScript (HTML5 i Google Apps).\n\nA banda d'això i com a hobby, també sóc il·lustrador, creador de models 3D i jugador de TTRPGs. Alguns dels meus projectes personals han estat impulsats pel desenvolupament d'aplicacions i eines per fer les meves aficions més agradables."
+    "description": "Salutacions! S\u00F3c KosmicTeal, un desenvolupador estil \u0022navalla su\u00EFssa\u0022 amb experi\u00E8ncia en diversos llenguatges de programaci\u00F3 com C#, C\u002B\u002B, Java, python, i HTML5/CSS entre d\u0027altres; a m\u00E9s de treballar amb programari de virtualitzaci\u00F3 com VirtualBox i Docker.\nTamb\u00E9 tinc alguns coneixements en la creaci\u00F3 d\u0027extensions per a fulls de c\u00E0lcul i sistemes ofim\u00E0tics com ara VBS (Excel) o JavaScript (HTML5 i Google Apps).\n\nA banda d\u0027aix\u00F2 i com a hobby, tamb\u00E9 s\u00F3c il\u00B7lustrador, creador de models 3D i jugador de TTRPGs. Alguns dels meus projectes personals han estat impulsats pel desenvolupament d\u0027aplicacions i eines per fer les meves aficions m\u00E9s agradables."
   },
   "card": {
     "language": "Idioma",
     "change-to-night-mode": "Cambiar a mode nocturn",
     "change-to-light-mode": "Cambiar a modo diurn",
     "personal-projects": "Proyectes personals",
-    "more-information": "Més informació",
-    "last-updated": "Última actualització",
+    "more-information": "M\u00E9s informaci\u00F3",
+    "last-updated": "\u00DAltima actualitzaci\u00F3",
     "number-plugins": "Nre de plugins",
     "intended-for": "Utilitzar amb",
     "source-code": "Codi font",
-    "download": "Descàrrega",
+    "download": "Desc\u00E0rrega",
     "unavailable": "Privat",
     "video-demo": "Demo Visual"
   },
@@ -25,7 +25,7 @@
       "card-title": "Lloc web en Github",
       "card-text": "Ets aqu\u00ED. Aquesta secci\u00F3 us ensenyar\u00E0 una mica d\u0027informaci\u00F3 sobre aquest lloc i el seu desenvolupament.",
       "modal-label": "Web de KosmicTeal en Github",
-      "modal-description": "Doncs aqu\u00ED ets. Aquest \u00E9s el primer projecte que he fet per poder mostrar les meves aptituds amb un lloc web totalment personalitzat, usant Bootstrap com a base i fent tota la resta a m\u00E0.\nL\u0027est\u00E8tica general d\u0027aquest lloc es basa en la interf\u00EDcie de l\u0027aclamat joc Final Fantasy\u00AE XIV de Square Enix, feta a trav\u00E9s de par\u00E0metres CSS.\nAl 14/01/2023, va ser afegit un Mode Nocturn i Di\u00FCrn.\nLes traduccions i el rework d\u0027aquesta p\u00E0gina amb React i Vite es van fer el 26/08/2023.",
+      "modal-description": "Doncs aqu\u00ED ets. Aquest \u00E9s el primer projecte que he fet per poder mostrar les meves aptituds amb un lloc web totalment personalitzat, usant Bootstrap com a base i fent tota la resta a m\u00E0.\nL\u0027est\u00E8tica general d\u0027aquest lloc es basa en la interf\u00EDcie de l\u0027aclamat joc Final Fantasy\u00AE XIV de Square Enix, feta a trav\u00E9s de par\u00E0metres CSS.\r\n\nAl 14/01/2023, va ser afegit un Mode Nocturn i Di\u00FCrn.\r\n\nLes traduccions i el rework d\u0027aquesta p\u00E0gina amb React i Vite es van fer el 26/08/2023.\r\nUn petit \u0022easter egg\u0022 va ser implementat el 03/09/2023, potser necessites algun codi per veure-ho...",
       "credits": "Final Fantasy XIV pertany a Square Enix. Aquesta p\u00E0gina no est\u00E0 afiliada amb Square Enix, nom\u00E9s s\u00F3c un fan que gaudeix del seu art."
     },
     "CTS": {

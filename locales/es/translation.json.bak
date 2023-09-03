@@ -25,7 +25,7 @@
       "card-title": "Sitio web en Github",
       "card-text": "Est\u00E1s aqu\u00ED. Esta secci\u00F3n te ense\u00F1ar\u00E1 un poco de informaci\u00F3n sobre este sitio y su desarrollo.",
       "modal-label": "Web de KosmicTeal en Github",
-      "modal-description": "Pues aqu\u00ED est\u00E1s. Este es el primer proyecto que he hecho para poder mostrar mis aptitudes con un sitio web totalmente personalizado, usando Bootstrap como base y haciendo todo el resto a mano.\nLa est\u00E9tica general de este sitio se basa en la interfaz del aclamado juego Final Fantasy\u00AE\uFE0F XIV de Square Enix, hecha a trav\u00E9s de par\u00E1metros CSS.\nEn el 14/01/2023, fue a\u00F1adido un Modo Nocturno y Diurno.\nLas traducciones y el rework de esta p\u00E1gina con React y Vite fueron realizadas el 26/08/2023.",
+      "modal-description": "Pues aqu\u00ED est\u00E1s. Este es el primer proyecto que he hecho para poder mostrar mis aptitudes con un sitio web totalmente personalizado, usando Bootstrap como base y haciendo todo el resto a mano.\nLa est\u00E9tica general de este sitio se basa en la interfaz del aclamado juego Final Fantasy\u00AE\uFE0F XIV de Square Enix, hecha a trav\u00E9s de par\u00E1metros CSS.\r\n\nEn el 14/01/2023, fue a\u00F1adido un Modo Nocturno y Diurno.\r\n\nLas traducciones y el rework de esta p\u00E1gina con React y Vite fueron realizadas el 26/08/2023.\r\nSe ha a\u00F1adido un peque\u00F1o \u0022easter egg\u0022 el 03/09/2023, puede que necesites un c\u00F3digo para ello...",
       "credits": "Final Fantasy XIV pertenece a Square Enix. Esta p\u00E1gina no est\u00E1 afiliada con Square Enix, soy solo un fan que disfruta de su arte."
     },
     "CTS": {

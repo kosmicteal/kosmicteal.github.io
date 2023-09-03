@@ -25,7 +25,7 @@
       "card-title": "GitHub website",
       "card-text": "You\u0027re here. This card will show a bit of info about this website and its development.",
       "modal-label": "KosmicTeal Github website",
-      "modal-description": "So, here you are. This is the first project I\u0027ve done to showcase myself properly with a fully customized website, using Bootstrap as a base and doing the entire rest by hand.\nThe general visual aesthetic of this site is based on Square Enix\u0027s acclaimed Final Fantasy\u00AE\uFE0F XIV game User Interface, done via CSS parameters.\n\nDark/Light Mode was added on 14/01/2023.\n\nTranslations and a rework of this page with React and Vite was done on 26/08/2023.",
+      "modal-description": "So, here you are. This is the first project I\u0027ve done to showcase myself properly with a fully customized website, using Bootstrap as a base and doing the entire rest by hand.\nThe general visual aesthetic of this site is based on Square Enix\u0027s acclaimed Final Fantasy\u00AE\uFE0F XIV game User Interface, done via CSS parameters.\n\nDark/Light Mode was added on 14/01/2023.\n\nTranslations and a rework of this page with React and Vite was done on 26/08/2023. \r\nA small easter egg was added on 03/09/2023, you may need a special code for that...",
       "credits": "Final Fantasy XIV belongs to Square Enix. This page is not affiliated with Square Enix, just a fan enjoying their art."
     },
     "CTS": {
