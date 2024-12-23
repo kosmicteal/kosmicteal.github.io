@@ -18,9 +18,17 @@
     "source-code": "Source code",
     "download": "Download",
     "unavailable": "Unavailable",
-    "video-demo": "Video Demo"
+    "video-demo": "Video Demo",
+    "webApp": "Start App"
   },
   "projects": {
+    "RAR": {
+      "card-title": "reActionroll",
+      "card-text": "Web application that allows TTRPG players to do combat-oriented summaries of their Character Sheets.",
+      "modal-label": "reActionroll",
+      "modal-description": "I am currently taking this as a hobby project so updates might come randomly from time to time. Feel free to report any bug or suggestion on its Github repository and I will tackle them when time allows me to do so.\n\nThat page has been done with React, Redux and other Open Source technologies. Detailed information about this project can be found on the About page.",
+      "credits": "All product and company names are trademarks or registered trademarks of their respective copyright holders. No copyright has been infringed with this application."
+    },
     "WEB": {
       "card-title": "GitHub website",
       "card-text": "You\u0027re here. This card will show a bit of info about this website and its development.",

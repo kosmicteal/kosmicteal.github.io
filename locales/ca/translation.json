@@ -18,9 +18,17 @@
     "source-code": "Codi font",
     "download": "Desc\u00E0rrega",
     "unavailable": "Privat",
-    "video-demo": "Demo Visual"
+    "video-demo": "Demo Visual",
+    "webApp": "Entrar a la app"
   },
   "projects": {
+    "RAR": {
+      "card-title": "reActionroll",
+      "card-text": "Aplicació web que permet a jugadors el fer resums de les seves Fitxes de Personatge.",
+      "modal-label": "reActionroll",
+      "modal-description": "Actualment estic prenent això com un projecte de hobby, de manera que les actualitzacions poden arribar de tant en tant a l'atzar. Sigues lliure de fer report de qualsevol bug o suggeriment que tinguis al repositori de Github i els solucionaré conforme vegi possible.\n\nAquesta pàgina ha estat realitzada amb React, Redux i altres tecnologies Open Source. Pots veure més detalls sobre aquesta aplicació a la pàgina de Sobre.",
+      "credits": "Tots els noms de productes i empreses són marques comercials o marques registrades dels seus respectius titulars dels drets d'autor. No s'ha infringit cap copyright amb aquesta aplicació."
+    },
     "WEB": {
       "card-title": "Lloc web en Github",
       "card-text": "Ets aqu\u00ED. Aquesta secci\u00F3 us ensenyar\u00E0 una mica d\u0027informaci\u00F3 sobre aquest lloc i el seu desenvolupament.",

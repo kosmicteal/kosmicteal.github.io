@@ -18,9 +18,17 @@
     "source-code": "C\u00F3digo fuente",
     "download": "Descarga",
     "unavailable": "Privado",
-    "video-demo": "Demo Visual"
+    "video-demo": "Demo Visual",
+    "webApp": "Entrar a la app"
   },
   "projects": {
+    "RAR": {
+      "card-title": "reActionroll",
+      "card-text": "Aplicación web que permite a jugadores el hacer resumenes de sus Fichas de Personaje.",
+      "modal-label": "reActionroll",
+      "modal-description": "Actualmente estoy tomando este proyecto como un hobby, por lo que las actualizaciones pueden llegar muy aleatoriamente. Siéntete libre de hacer report de cualquier bug o sugerencia que tengas en el repositorio de Github y las solucionaré conforme vea posible.\n\nEsta página ha sido realizada con React, Redux y otras tecnologías Open Source. Puedes ver más detalles sobre esta aplicación en la página de Acerca de.",
+      "credits": "Todos los nombres de productos y empresas son marcas comerciales o marcas comerciales registradas de sus respectivos propietarios de sus derechos de autor. Ningún copyright ha sido infringido con esta aplicación."
+    },
     "WEB": {
       "card-title": "Sitio web en Github",
       "card-text": "Est\u00E1s aqu\u00ED. Esta secci\u00F3n te ense\u00F1ar\u00E1 un poco de informaci\u00F3n sobre este sitio y su desarrollo.",
