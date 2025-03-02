@@ -1,110 +1,143 @@
 {
-  "debug": {
-    "i18ntest": "Traducci\u00F3 al catal\u00E0"
-  },
-  "header": {
-    "subtitle": "Desarrollador Full-stack i de UX/UI",
-    "description": "Salutacions! S\u00F3c KosmicTeal, un desenvolupador estil \u0022navalla su\u00EFssa\u0022 amb experi\u00E8ncia en diversos llenguatges de programaci\u00F3 com C#, C\u002B\u002B, Java, python, i HTML5/CSS entre d\u0027altres; a m\u00E9s de treballar amb programari de virtualitzaci\u00F3 com VirtualBox i Docker.\nTamb\u00E9 tinc alguns coneixements en la creaci\u00F3 d\u0027extensions per a fulls de c\u00E0lcul i sistemes ofim\u00E0tics com ara VBS (Excel) o JavaScript (HTML5 i Google Apps).\n\nA banda d\u0027aix\u00F2 i com a hobby, tamb\u00E9 s\u00F3c il\u00B7lustrador, creador de models 3D i jugador de TTRPGs. Alguns dels meus projectes personals han estat impulsats pel desenvolupament d\u0027aplicacions i eines per fer les meves aficions m\u00E9s agradables."
-  },
-  "card": {
-    "language": "Idioma",
-    "change-to-night-mode": "Cambiar a mode nocturn",
-    "change-to-light-mode": "Cambiar a modo diurn",
-    "personal-projects": "Proyectes personals",
-    "more-information": "M\u00E9s informaci\u00F3",
-    "last-updated": "\u00DAltima actualitzaci\u00F3",
-    "number-plugins": "Nre de plugins",
-    "intended-for": "Utilitzar amb",
-    "source-code": "Codi font",
-    "download": "Desc\u00E0rrega",
-    "unavailable": "Privat",
-    "video-demo": "Demo Visual",
-    "webApp": "Entrar a la app"
-  },
-  "projects": {
-    "RAR": {
-      "card-title": "reActionroll",
-      "card-text": "Aplicació web que permet a jugadors el fer resums de les seves Fitxes de Personatge.",
-      "modal-label": "reActionroll",
-      "modal-description": "Actualment estic prenent això com un projecte de hobby, de manera que les actualitzacions poden arribar de tant en tant a l'atzar. Sigues lliure de fer report de qualsevol bug o suggeriment que tinguis al repositori de Github i els solucionaré conforme vegi possible.\n\nAquesta pàgina ha estat realitzada amb React, Redux i altres tecnologies Open Source. Pots veure més detalls sobre aquesta aplicació a la pàgina de Sobre.",
-      "credits": "Tots els noms de productes i empreses són marques comercials o marques registrades dels seus respectius titulars dels drets d'autor. No s'ha infringit cap copyright amb aquesta aplicació."
+    "languageCode": "CA",
+    "meta": "2.0.0",
+    "uiTranslations": {
+        "UI_aboutMe": "Qui soc",
+        "UI_projects": "Projectes",
+        "UI_mascot": "Mascota",
+        "UI_contact": "Contacte",
+        "UI_goBack": "Tornar",
+        "UI_theme": "Canviar tema",
+        "UI_theme_dark": "Tema base fosca",
+        "UI_theme_light": "Tema base clar",
+        "UI_language": "Canviar idioma",
+        "UI_language_en": "English (en)",
+        "UI_language_es": "Español (es)",
+        "UI_language_ca": "Català (ca)",
+        "UI_404_Text": "Aquesta pàgina no existeix. Comprova que no hagis escrit malament l'adreça (o que m'hagi equivocat) o utilitza la Barra de Navegació per a anar a un lloc segur!",
+        "AM_subtitle": "Desenvolupador Full-stack/UX/UI",
+        "AM_description": "Soc KosmicTeal, un desenvolupador estil \"navalla suïssa\" en diversos llenguatges de programació com a C#, C++, Java, python, i HTML5/CSS entre altres; a més de treballar amb programari de Virtualització com VirtualBox i Docker.\nTambé tinc coneixements en la creació de complements per a fulls de càlcul i sistemes ofimàtics com VBS (Excel) o JavaScript (HTML5 i Google Apps).\n\nA part de programar i com a hobby, també soc il·lustrador, creador de models 3D i jugador de TTRPG. Alguns dels meus projectes personals van ser creats amb la finalitat del desenvolupament d'aplicacions i complements per a fer les meves aficions més disfrutables i senzilles.",
+        "PR_upcoming": "Projectes futurs",
+        "PR_professional": "Projectes professionals",
+        "PR_personal": "Projectes personals",
+        "PR_detail_initialRelease": "Llançament inicial: ",
+        "PR_detail_intended": "Utilitzar amb",
+        "PR_detail_source": "Codi font",
+        "PR_detail_download": "Descarregar",
+        "PR_detail_visit": "Visitar web",
+        "PR_detail_demo": "Mirar demo",
+        "MA_description": "Una petita mascota robot que he creat per a aquesta pàgina (i també per a mostrar una mica la meva afició com a artista!). El seu nom és un joc de paraules entre Wyvern (que és una paraula comuna per a un drac amb braços però sense cames) i IA. No obstant això, no es tracta d'Intel·ligència Artificial, sinó més aviat d'Intel·ligència Artística.\n\nIgual que wAIvern, l'art i la tecnologia poden anar de bracet. Això significa que la IA no hauria d'utilitzar-se per a reemplaçar als veritables artistes ni per a abusar d'ella sense criteri.\nJa sigui en programació, art o qualsevol cosa que requereixi enginyeria humana; si es té en compte la IA, ha d'usar-se de manera ètica i crítica.\nTinc plans de fer més coses amb aquest personatge, així que no deixis de tirar-li un ull al meu web de tant en tant! ",
+        "MA_gallery_1": "Esbossos d'expressió del personatge",
+        "MA_gallery_2": "Art conceptual",
+        "MA_gallery_3": "Render 3D de Blender",
+        "CO_title": "Contacte i xarxes socials",
+        "CO_email": "Correu electrònic"
     },
-    "WEB": {
-      "card-title": "Lloc web en Github",
-      "card-text": "Ets aqu\u00ED. Aquesta secci\u00F3 us ensenyar\u00E0 una mica d\u0027informaci\u00F3 sobre aquest lloc i el seu desenvolupament.",
-      "modal-label": "Web de KosmicTeal en Github",
-      "modal-description": "Doncs aqu\u00ED ets. Aquest \u00E9s el primer projecte que he fet per poder mostrar les meves aptituds amb un lloc web totalment personalitzat, usant Bootstrap com a base i fent tota la resta a m\u00E0.\nL\u0027est\u00E8tica general d\u0027aquest lloc es basa en la interf\u00EDcie de l\u0027aclamat joc Final Fantasy\u00AE XIV de Square Enix, feta a trav\u00E9s de par\u00E0metres CSS.\r\n\nAl 14/01/2023, va ser afegit un Mode Nocturn i Di\u00FCrn.\r\n\nLes traduccions i el rework d\u0027aquesta p\u00E0gina amb React i Vite es van fer el 26/08/2023.\r\nUn petit \u0022easter egg\u0022 va ser implementat el 03/09/2023, potser necessites algun codi per veure-ho...",
-      "credits": "Final Fantasy XIV pertany a Square Enix. Aquesta p\u00E0gina no est\u00E0 afiliada amb Square Enix, nom\u00E9s s\u00F3c un fan que gaudeix del seu art."
-    },
-    "CTS": {
-      "card-title": "ClipTheSurface",
-      "card-text": "Superposici\u00F3 que et permet l\u0027\u00FAs de diverses eines mentre dibuixes a Clip Studio Paint.",
-      "modal-label": "ClipTheSurface",
-      "modal-description": "Aquest programari funciona en mode superposici\u00F3 i emula les tecles modificadores com les tecles de fletxa al teu PC.\nEl \u0022Mode d\u0027enfocament complet\u0022, mostrat amb una icona de tauleta, posa Clip Studio Paint en un mode \u0022sense men\u00FA\u0022, canvia la configuraci\u00F3 de Windows perqu\u00E8 la barra de tasques s\u0027oculti autom\u00E0ticament mentre el mode est\u00E0 activat i mostra un rellotge en cas que vulgueu tenir en compte l\u0027hora sense mostrar la barra de tasques.\nAquesta aplicaci\u00F3 va ser creada amb la plataforma Surface al cap, per\u00F2 tamb\u00E9 funcionar\u00E0 en qualsevol altre tipus de Tablet PC.\n\nCom a nota, aquesta aplicaci\u00F3 sempre estar\u00E0 a la part central dreta de la pantalla, sense importar si est\u00E0s en mode vertical o horitzontal, i es pot ocultar quan vulguis. Tamb\u00E9 t\u00E9 una funci\u00F3 especial que, si es vincula a una acci\u00F3 del bot\u00F3 del llapis, podeu obrir o tancar l\u0027aplicaci\u00F3 directament.",
-      "credits": "Clip Studio Paint pertany a CELSYS."
-    },
-    "ESD": {
-      "card-title": "EasySynthDrop",
-      "card-text": "Crea noves pistes arrossegant i deixant anar els teus bancs de Synthesizer V Studio al programa.",
-      "modal-label": "EasySynthDrop",
-      "modal-description": "Aquest programari llegeix la teva carpeta de bancs de veu de SynthV i et permet arrossegar i deixar anar un dels teus bancs (l\u0027\u00FAltima versi\u00F3 que hagis instal\u00B7lat) a SynthV per crear una nova pista f\u00E0cilment.\n\n\u00DAnicament llegeix el nom de les carpetes de cada banc, crea un fitxer buit i et permet deixar-lo anar al programa, per la qual cosa \u00E9s segur d\u0027utilitzar.\n\nUna petita nota, aquest \u00E9s el primer programari que he fet que t\u00E9 en compte el DPI de la pantalla, amb les seves animacions i mida relativa compatibles als canvis de DPI.",
-      "credits": "Synthesizer V Studio pertany a Dreamtonics."
-    },
-    "KVMA": {
-      "card-title": "KosmicVMApplets",
-      "card-text": "Grup d\u0027applets que et permeten facilitar l\u0027\u00FAs de VirtualBox per estalviar-te obrir el terminal.",
-      "modal-label": "KosmicVMApplets",
-      "modal-description": "Aquests applets permeten interactuar f\u00E0cilment amb vboxmanage.exe de VirtualBox perqu\u00E8 els usuaris no necessitin entrar al CMD de Windows.\nDurant el meu aprenentatge, em vaig trobar amb la necessitat d\u0027accedir a algunes dades o organitzar les M\u00E0quines Virtuals d\u0027una manera f\u00E0cil. Com que tamb\u00E9 ens est\u00E0vem centrant a aprendre m\u00E9s sobre WinForms i Visual Studio, vaig decidir crear aquests per fer el meu aprenentatge una mica m\u00E9s f\u00E0cil.\n\nActualment hi ha dos applets:\n\n\u2022 VMIPCheck: Mostra una notificaci\u00F3 de Windows amb la IP principal del teu MV\n\u2022 VMIconChange: Applet amb una UI senzilla que et permet canviar la icona de la VM que vulguis en lloc d\u0027escriure-ho al terminal.",
-      "credits": "VirtualBox pertany a Oracle."
-    },
-    "PSH": {
-      "card-title": "Project SKILL_H",
-      "card-text": "Full de Personatge personalitzat per a Roll20 amb scripts i botons per realitzar tirades autom\u00E0tiques.",
-      "modal-label": "Project SKILL_H",
-      "modal-description": "Full de Personatge fet a mida en HTML5, CSS i Javascript, basat en un sistema de TTRPG (TableTop RolePlay Game) personalitzat.\r\n\r\nCreat com a regal per a una de les meves millors amigues, aquest full es va fer principalment amb CSS grids i trucades al sistema de Roll20. Tamb\u00E9 inclou plantilles personalitzades per a les tirades de daus, l\u0027inventari i les habilitats.\r\n\r\nCom que est\u00E0 feta per a un joc TTRPG, tamb\u00E9 \u00E9s altament personalitzable i din\u00E0mica, perqu\u00E8 la gent pugui jugar-la i millorar-la amb el temps. Com a extra, tamb\u00E9 \u00E9s compatible amb el nou Mode Nocturn de Roll20.",
-      "credits": "Roll20 pertany a The Orr Group. Sistema de TTRPG creat per @yaseiranryu. Beta-testejat per @kurohaine97, @heniasama and @nise_loftsteinn. (a Tw*tter)"
-    },
-    "VOC": {
-      "card-title": "VoCatalogue",
-      "card-text": "Aplicaci\u00F3 que permet als usuaris fer un seguiment dels seus codis d\u0027activaci\u00F3 de TTS.",
-      "modal-label": "VoCatalogue",
-      "modal-description": "Petita aplicaci\u00F3 que us permet desar els vostres Codis d\u0027activaci\u00F3 de diferents TTS (sintetitzadors de text a veu) i la seva ubicaci\u00F3 al disc.\r\n\r\nNo \u00E9s tan petit com sembla, ja que llavors era laplicaci\u00F3 m\u00E9s extensa que vaig fer i em volia esfor\u00E7ar a aprendre m\u00E9s enll\u00E0 de fer una interf\u00EDcie dusuari amb WinForms. Tamb\u00E9 compta amb suport per exportar les dades a un JSON per facilitar els usuaris desar les seves dades f\u00E0cilment.\r\nNo s\u0027actualitza actualment, per\u00F2 el programa permet introduir dades sobre una gran part dels programaris de sintetitzador de veu llan\u00E7ats des del 2006 fins al 2021. Tot queda guardat localment al vostre ordinador, per descomptat, sense filtracions de dades ni res per l\u0027estil.",
-      "credits": "Miniatures fetes per LuxiayK. Cada personatge pertany a la seva respectiva companyia."
-    },
-    "VSP": {
-      "card-title": "VocalSynthPlugins",
-      "card-text": "Plugins per a diferents sintetitzadors de veu que permeten scripts per facilitar-ne l\u0027\u00FAs.",
-      "modal-label": "VocalSynthPlugins",
-      "modal-description": "Grup de Plugins que van ser creats per tal de fer m\u00E9s f\u00E0cil el flux de treball musical en sintetitzadors de veu que permeten scripts.\r\n\r\nL\u0027API dels sintetitzadors era for\u00E7a restrictiva en el seu moment de manera que, no podia deixar fluir molt la meva imaginaci\u00F3, i molt menys quan tractar de trobar SDK/API de programari antic era gaireb\u00E9 impossible. No obstant aix\u00F2, vaig poder fer alguns addons sol\u00B7licitats per la comunitat. Actualment hi ha tres addons:\r\n\r\n\u2022 ListKeyNotes: Crea notes de la mateixa longitud en una escala espec\u00EDfica\r\n\u2022 Crash-B-Gone for Tonio: Substitueix totes les @ per V\r\n\u2022 VocaAutoPitch (April Fools 2021): Afegeix les quatre primeres notes de Megalovanie de Toby Fox de UNDERTALE.",
-      "credits": "VOCALOID pertany a Yamaha."
-    },
-    "LBS": {
-      "card-title": "LameBlenderScripts",
-      "card-text": "Conjunt de plugins per a Blender (2.8\u002B) creats per millorar el flux en el desenvolupament de models 3D.",
-      "modal-label": "LameBlenderScripts",
-      "modal-description": "Grup de Plugins que van ser adaptats a partir de codi existent per tal de fer diverses tasques de desenvolupament 3D m\u00E9s f\u00E0cils.\n\nVaig trigar al voltant d\u0027un mes a tenir el conjunt complet, ja que estava desenvolupant un model i estava cansat de fer coses repetitives manualment. Les principals funcionalitats s\u00F3n:\n\n\u2022 Reflecteix les Shapekeys acabades en .L i crea versions duals (.L\u002B.R)\n\u2022 Selecciona ossos en ordre, connectant-los i reanomenant tota la pila amb la nomenclatura est\u00E0ndard pare-fill\n\u2022 Invertiu l\u0027eix de cua dels ossos, per ser usat amb la funcionalitat anterior o per si mateix\n\u2022 Reanomena ossos i grups de v\u00E8rtexs de Standard Blender a Standard MikuMikuDance\n\u2022 Afegeix objectes buits que m\u00E9s tard serien entesos per mmd_tools com a Joints.",
-      "credits": "Blender pertany a Blender Foundation. Adaptat de trossos de codi pertanyents a p2or, brockmann, Opponent019, batFINGER i Lemon de Blender\u0027s Stackexchange."
-    },
-    "CS": {
-      "card-title": "ColorSynth",
-      "card-text": "Aplicaci\u00F3 que permet als usuaris editar els colors de les pistes a SynthV.",
-      "modal-label": "ColorSynth",
-      "modal-description": "Aplicaci\u00F3 que es va crear en primer lloc com una forma de personalitzar el color de cada \u0022pista\u0022 disponible en un projecte de Synthesizer V Studio sense necessitat dutilitzar cap tipus de Plugin.\r\n\r\nAix\u00F2 es va fer r\u00E0pidament en una tarda mentre intentava llegir com es generaven els fitxers .svp i aprenia a llegir i escriure dades en un fitxer JSON. Com aleshores nom\u00E9s programava UIs amb Windows Forms, vaig haver de cenyir-me a aquest m\u00E8tode durant un bon temps.\r\n\r\nDos anys despr\u00E9s del llan\u00E7ament d\u0027aquest projecte, la versi\u00F3 1.10.0b1 de Synthesizer V Studio inclo\u00EFa una manera de canviar els colors de les pistes directament des de la pr\u00F2pia interf\u00EDcie amb alguns colors predeterminats.",
-      "credits": "Synthesizer V Studio pertany a Dreamtonics."
-    },
-    "SPC": {
-      "card-title": "SpectraCode",
-      "card-text": "Plugin per a Visual Studio Code que permet als usuaris triar un color per identificar espais de treball.",
-      "modal-label": "SpectraCode",
-      "modal-description": "Aquesta extensi\u00F3 us permet canviar el color d\u0027elements clau de la UI dins d\u0027un workspace per poder identificar f\u00E0cilment entre diferents estades del mateix programa.\n\nLa principal difer\u00E8ncia amb altres extensions similars \u00E9s que inclou un selector de color cl\u00E0ssic per poder personalitzar-lo sense necessitat aprendre colors Hex.\n\nTamb\u00E9, pots escollir si vols estendre aquest canvi a la Paleta de Comandes o la Barra del T\u00EDtol, escriure el color Hex manualment per si tens un color preferit en concret o restablir els canvis per gaudir del tema escollit a la seva originalitat.",
-      "credits": "Visual Studio Code pertany a Microsoft. Logo fet per LuxiayK. Realitzat amb codi de James Daniel (iro.js) i Sinan Aksay (Dynamic Text functions on Javascript)."
-    },
-    "PLS": {
-      "card-title": "Planisphere",
-      "card-text": "Aplicaci\u00F3 interna que permet actualitzar f\u00E0cilment aquesta mateixa p\u00E0gina. A part es veu guai.",
-      "modal-label": "Planisphere",
-      "modal-description": "Aquesta aplicaci\u00F3 permet que aquest lloc web sigui f\u00E0cilment actualitzable.\r\n\r\nDes del remake d\u0027HTML5/CSS senzill a React\u002BVite, les dades d\u0027aquest lloc web es manegen a trav\u00E9s de fitxers JSON. Com escriure manualment els fitxers JSON pot ser una mica cansat, per no parlar de traduir-los, he desenvolupat una aplicaci\u00F3 WPF per fer el meu workflow m\u00E9s f\u00E0cil.\r\n\r\nEncara est\u00E0 una mica sense cuinar, per aix\u00F2 nom\u00E9s \u00E9s una eina \u0022interna\u0022. Les futures actualitzacions previstes s\u00F3n permetre l\u0027eliminaci\u00F3 de dades, botons centrats a fer el workflow encara m\u00E9s r\u00E0pid, poder afegir nous idiomes i la traducci\u00F3 d\u0027algunes dades no relacionades amb els projectes tamb\u00E9.",
-      "credits": "Interf\u00EDcie feta amb el paquet NuGet de MahApps.Metro."
+    "projects": {
+        "RAR": {
+            "cardTitle": "reActionroll",
+            "cardText": "Aplicació web que permet a jugadors el fer resums de les seves Fitxes de Personatge.",
+            "modalLabel": "reActionroll",
+            "modalDescription": "Actualment estic prenent això com un projecte de hobby, de manera que les actualitzacions poden arribar de tant en tant a l'atzar. Sigues lliure de fer report de qualsevol bug o suggeriment que tinguis al repositori de Github i els solucionaré conforme vegi possible.\n\nAquesta pàgina ha estat realitzada amb React, Redux i altres tecnologies Open Source. Pots veure més detalls sobre aquesta aplicació a la pàgina de Sobre.",
+            "credits": "Tots els noms de productes i empreses són marques comercials o marques registrades dels seus respectius titulars dels drets d'autor. No s'ha infringit cap copyright amb aquesta aplicació."
+        },
+        "WEB": {
+            "cardTitle": "Lloc web en Github",
+            "cardText": "Ets aquí. Aquesta secció us ensenyarà una mica d'informació sobre aquest lloc i el seu desenvolupament.",
+            "modalLabel": "Web de KosmicTeal en Github",
+            "modalDescription": "Aquesta pàgina web ha tingut moltes revisions des de la seva primera creació el 2022.\nInicialment era una pàgina estàtica usant principalment HTML, CSS i la UI de Bootstrap com a base. Posteriorment, el 14/01/2023 es va afegir un botó per canviar entre el seu tema Fosc i Clar.\n\nS'hi van afegir traduccions juntament amb el seu rework a React i Vite el 26/08/2023; i s'hi va afegir un easter egg el 03/09/2023.\n\nPer a la tercera versió, s'ha fet un rework des de zero de tota la web, aprofitant els nous coneixements sobre Front-end, millorant la interfície i afegint interaccions amb l'usuari.",
+            "credits": ""
+        },
+        "CTS": {
+            "cardTitle": "ClipTheSurface",
+            "cardText": "Superposició que et permet l'ús de diverses eines mentre dibuixes a Clip Studio Paint.",
+            "modalLabel": "ClipTheSurface",
+            "modalDescription": "Aquest programari funciona en mode superposició i emula les tecles modificadores com les tecles de fletxa al teu PC.\nEl \"Mode d'enfocament complet\", mostrat amb una icona de tauleta, posa Clip Studio Paint en un mode \"sense menú\", canvia la configuració de Windows perquè la barra de tasques s'oculti automàticament mentre el mode està activat i mostra un rellotge en cas que vulgueu tenir en compte l'hora sense mostrar la barra de tasques.\nAquesta aplicació va ser creada amb la plataforma Surface al cap, però també funcionarà en qualsevol altre tipus de Tablet PC.\n\nCom a nota, aquesta aplicació sempre estarà a la part central dreta de la pantalla, sense importar si estàs en mode vertical o horitzontal, i es pot ocultar quan vulguis. També té una funció especial que, si es vincula a una acció del botó del llapis, podeu obrir o tancar l'aplicació directament.",
+            "credits": "Clip Studio Paint pertany a CELSYS."
+        },
+        "ESD": {
+            "cardTitle": "EasySynthDrop",
+            "cardText": "Crea noves pistes arrossegant i deixant anar els teus bancs de Synthesizer V Studio al programa.",
+            "modalLabel": "EasySynthDrop",
+            "modalDescription": "Aquest programari llegeix la teva carpeta de bancs de veu de SynthV i et permet arrossegar i deixar anar un dels teus bancs (l'última versió que hagis instal·lat) a SynthV per crear una nova pista fàcilment.\n\nÚnicament llegeix el nom de les carpetes de cada banc, crea un fitxer buit i et permet deixar-lo anar al programa, per la qual cosa és segur d'utilitzar.\n\nUna petita nota, aquest és el primer programari que he fet que té en compte el DPI de la pantalla, amb les seves animacions i mida relativa compatibles als canvis de DPI.",
+            "credits": "Synthesizer V Studio pertany a Dreamtonics."
+        },
+        "KVMA": {
+            "cardTitle": "KosmicVMApplets",
+            "cardText": "Grup d'applets que et permeten facilitar l'ús de VirtualBox per estalviar-te obrir el terminal.",
+            "modalLabel": "KosmicVMApplets",
+            "modalDescription": "Aquests applets permeten interactuar fàcilment amb vboxmanage.exe de VirtualBox perquè els usuaris no necessitin entrar al CMD de Windows.\nDurant el meu aprenentatge, em vaig trobar amb la necessitat d'accedir a algunes dades o organitzar les Màquines Virtuals d'una manera fàcil. Com que també ens estàvem centrant a aprendre més sobre WinForms i Visual Studio, vaig decidir crear aquests per fer el meu aprenentatge una mica més fàcil.\n\nActualment hi ha dos applets:\n\n• VMIPCheck: Mostra una notificació de Windows amb la IP principal del teu MV\n• VMIconChange: Applet amb una UI senzilla que et permet canviar la icona de la VM que vulguis en lloc d'escriure-ho al terminal.",
+            "credits": "VirtualBox pertany a Oracle."
+        },
+        "PSH": {
+            "cardTitle": "Project SKILL_H",
+            "cardText": "Full de Personatge personalitzat per a Roll20 amb scripts i botons per realitzar tirades automàtiques.",
+            "modalLabel": "Project SKILL_H",
+            "modalDescription": "Full de Personatge fet a mida en HTML5, CSS i Javascript, basat en un sistema de TTRPG (TableTop RolePlay Game) personalitzat.\r\n\r\nCreat com a regal per a una de les meves millors amigues, aquest full es va fer principalment amb CSS grids i trucades al sistema de Roll20. També inclou plantilles personalitzades per a les tirades de daus, l'inventari i les habilitats.\r\n\r\nCom que està feta per a un joc TTRPG, també és altament personalitzable i dinàmica, perquè la gent pugui jugar-la i millorar-la amb el temps. Com a extra, també és compatible amb el nou Mode Nocturn de Roll20.",
+            "credits": "Roll20 pertany a The Orr Group. Sistema de TTRPG creat per @yaseiranryu. Beta-testejat per @kurohaine97, @heniasama and @nise_loftsteinn. (a Tw*tter)"
+        },
+        "VOC": {
+            "cardTitle": "VoCatalogue",
+            "cardText": "Aplicació que permet als usuaris fer un seguiment dels seus codis d'activació de TTS.",
+            "modalLabel": "VoCatalogue",
+            "modalDescription": "Petita aplicació que us permet desar els vostres Codis d'activació de diferents TTS (sintetitzadors de text a veu) i la seva ubicació al disc.\r\n\r\nNo és tan petit com sembla, ja que llavors era laplicació més extensa que vaig fer i em volia esforçar a aprendre més enllà de fer una interfície dusuari amb WinForms. També compta amb suport per exportar les dades a un JSON per facilitar els usuaris desar les seves dades fàcilment.\r\nNo s'actualitza actualment, però el programa permet introduir dades sobre una gran part dels programaris de sintetitzador de veu llançats des del 2006 fins al 2021. Tot queda guardat localment al vostre ordinador, per descomptat, sense filtracions de dades ni res per l'estil.",
+            "credits": "Miniatures fetes per LuxiayK. Cada personatge pertany a la seva respectiva companyia."
+        },
+        "VSP": {
+            "cardTitle": "VocalSynthPlugins",
+            "cardText": "Plugins per a diferents sintetitzadors de veu que permeten scripts per facilitar-ne l'ús.",
+            "modalLabel": "VocalSynthPlugins",
+            "modalDescription": "Grup de Plugins que van ser creats per tal de fer més fàcil el flux de treball musical en sintetitzadors de veu que permeten scripts.\r\n\r\nL'API dels sintetitzadors era força restrictiva en el seu moment de manera que, no podia deixar fluir molt la meva imaginació, i molt menys quan tractar de trobar SDK/API de programari antic era gairebé impossible. No obstant això, vaig poder fer alguns addons sol·licitats per la comunitat. Actualment hi ha tres addons:\r\n\r\n• ListKeyNotes: Crea notes de la mateixa longitud en una escala específica\r\n• Crash-B-Gone for Tonio: Substitueix totes les @ per V\r\n• VocaAutoPitch (April Fools 2021): Afegeix les quatre primeres notes de Megalovanie de Toby Fox de UNDERTALE.",
+            "credits": "VOCALOID pertany a Yamaha."
+        },
+        "LBS": {
+            "cardTitle": "LameBlenderScripts",
+            "cardText": "Conjunt de plugins per a Blender (2.8+) creats per millorar el flux en el desenvolupament de models 3D.",
+            "modalLabel": "LameBlenderScripts",
+            "modalDescription": "Grup de Plugins que van ser adaptats a partir de codi existent per tal de fer diverses tasques de desenvolupament 3D més fàcils.\n\nVaig trigar al voltant d'un mes a tenir el conjunt complet, ja que estava desenvolupant un model i estava cansat de fer coses repetitives manualment. Les principals funcionalitats són:\n\n• Reflecteix les Shapekeys acabades en .L i crea versions duals (.L+.R)\n• Selecciona ossos en ordre, connectant-los i reanomenant tota la pila amb la nomenclatura estàndard pare-fill\n• Invertiu l'eix de cua dels ossos, per ser usat amb la funcionalitat anterior o per si mateix\n• Reanomena ossos i grups de vèrtexs de Standard Blender a Standard MikuMikuDance\n• Afegeix objectes buits que més tard serien entesos per mmd_tools com a Joints.",
+            "credits": "Blender pertany a Blender Foundation. Adaptat de trossos de codi pertanyents a p2or, brockmann, Opponent019, batFINGER i Lemon de Blender's Stackexchange."
+        },
+        "CS": {
+            "cardTitle": "ColorSynth",
+            "cardText": "Aplicació que permet als usuaris editar els colors de les pistes a SynthV.",
+            "modalLabel": "ColorSynth",
+            "modalDescription": "Aplicació que es va crear en primer lloc com una forma de personalitzar el color de cada \"pista\" disponible en un projecte de Synthesizer V Studio sense necessitat dutilitzar cap tipus de Plugin.\n\nAixò es va fer ràpidament en una tarda mentre intentava llegir com es generaven els fitxers .svp i aprenia a llegir i escriure dades en un fitxer JSON. Com aleshores només programava UIs amb Windows Forms, vaig haver de cenyir-me a aquest mètode durant un bon temps.\n\nDos anys després del llançament d'aquest projecte, la versió 1.10.0 de Synthesizer V Studio incloïa una manera de canviar els colors de les pistes directament des de la pròpia interfície.",
+            "credits": "Synthesizer V Studio pertany a Dreamtonics."
+        },
+        "SPC": {
+            "cardTitle": "SpectraCode",
+            "cardText": "Plugin per a Visual Studio Code que permet als usuaris triar un color per identificar espais de treball.",
+            "modalLabel": "SpectraCode",
+            "modalDescription": "Aquesta extensió us permet canviar el color d'elements clau de la UI dins d'un workspace per poder identificar fàcilment entre diferents estades del mateix programa.\n\nLa principal diferència amb altres extensions similars és que inclou un selector de color clàssic per poder personalitzar-lo sense necessitat aprendre colors Hex.\n\nTambé, pots escollir si vols estendre aquest canvi a la Paleta de Comandes o la Barra del Títol, escriure el color Hex manualment per si tens un color preferit en concret o restablir els canvis per gaudir del tema escollit a la seva originalitat.",
+            "credits": "Visual Studio Code pertany a Microsoft. Logo fet per LuxiayK. Realitzat amb codi de James Daniel (iro.js) i Sinan Aksay (Dynamic Text functions on Javascript)."
+        },
+        "PLS": {
+            "cardTitle": "Planisphere",
+            "cardText": "Aplicació interna que permet actualitzar fàcilment aquesta mateixa pàgina. A part es veu guai.",
+            "modalLabel": "Planisphere",
+            "modalDescription": "Aquesta aplicació permet que aquest lloc web sigui fàcilment actualitzable.\n\nDes del remake d'HTML5/CSS senzill a React+Vite, les dades d'aquest lloc web es manegen a través de fitxers JSON. Com escriure manualment els fitxers JSON pot ser una mica cansat, per no parlar de traduir-los, he desenvolupat una aplicació WPF per fer el meu workflow més fàcil.\n\nEncara està una mica sense cuinar, per això només és una eina \"interna\". Les futures actualitzacions previstes són permetre l'eliminació de dades, botons centrats a fer el workflow encara més ràpid, poder afegir nous idiomes i la traducció d'algunes dades no relacionades amb els projectes també.\n\nActualment aquesta aplicació està deprecada a favor de Planisphere2.",
+            "credits": "Interfície feta amb el paquet NuGet de MahApps.Metro."
+        },
+        "PLS2": {
+            "cardTitle": "Planisphere2",
+            "cardText": "Aplicació interna que permet actualitzar fàcilment aquesta mateixa pàgina, pero millorat!",
+            "modalLabel": "Planisphere2",
+            "modalDescription": "Aprofitant els nous coneixements que he anat adquirint sobre Redux, React i altres diferents llibreries, vaig decidir per fi actualitzar i millorar una mica la versió anterior de Planisphere, canviant de C# a TS.\n\nAquesta versió té una interfície més neta i útil, és més ràpida i optimitzada, i també permet ara afegir-hi idiomes, frameworks i plataformes; a part de poder canviar el tema sense res de preocupar-se.\n\nA causa de les limitacions respecte a la seguretat dels navegadors, no vaig aconseguir poder reimplementar obrir el projecte final amb VSCode ni obrir un projecte sencer només seleccionant la carpeta a tots els navegadors, així que s'ha reemplaçat per unes opcions similars a les realitzades en la versió inicial a Windows.\nPer a facilitar l'us amb aquesta web, també he creat una versió Standalone feta amb Tauri.",
+            "credits": ""
+        },
+        "ENQ": {
+            "cardTitle": "Enquiry",
+            "cardText": "Els cinc elements han de convergir en un únic. Joc RPG realitzat en Godot.",
+            "modalLabel": "",
+            "modalDescription": "",
+            "credits": ""
+        },
+        "BOD": {
+            "cardTitle": "Boreal Dragon UI",
+            "cardText": "Components personalitzables i elegants per a React. Trenca les normes.",
+            "modalLabel": "",
+            "modalDescription": "",
+            "credits": ""
+        }
     }
-  }
 }
