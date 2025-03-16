@@ -7,10 +7,12 @@
         "UI_mascot": "Mascota",
         "UI_contact": "Contacte",
         "UI_goBack": "Tornar",
-        "UI_theme": "Canviar tema",
+        "UI_settings": "Canviar configuració",
+        "UI_mute": "Silenciar",
+        "UI_theme": "Tema",
         "UI_theme_dark": "Tema base fosca",
         "UI_theme_light": "Tema base clar",
-        "UI_language": "Canviar idioma",
+        "UI_language": "Idioma",
         "UI_language_en": "English (en)",
         "UI_language_es": "Español (es)",
         "UI_language_ca": "Català (ca)",
@@ -46,7 +48,7 @@
             "cardText": "Ets aquí. Aquesta secció us ensenyarà una mica d'informació sobre aquest lloc i el seu desenvolupament.",
             "modalLabel": "Web de KosmicTeal en Github",
             "modalDescription": "Aquesta pàgina web ha tingut moltes revisions des de la seva primera creació el 2022.\nInicialment era una pàgina estàtica usant principalment HTML, CSS i la UI de Bootstrap com a base. Posteriorment, el 14/01/2023 es va afegir un botó per canviar entre el seu tema Fosc i Clar.\n\nS'hi van afegir traduccions juntament amb el seu rework a React i Vite el 26/08/2023; i s'hi va afegir un easter egg el 03/09/2023.\n\nPer a la tercera versió, s'ha fet un rework des de zero de tota la web, aprofitant els nous coneixements sobre Front-end, millorant la interfície i afegint interaccions amb l'usuari.",
-            "credits": ""
+            "credits": "Efectes de so de la web per Nathan Gibson (https://nathangibson.myportfolio.com)"
         },
         "CTS": {
             "cardTitle": "ClipTheSurface",
@@ -135,6 +137,13 @@
         "BOD": {
             "cardTitle": "Boreal Dragon UI",
             "cardText": "Components personalitzables i elegants per a React. Trenca les normes.",
+            "modalLabel": "",
+            "modalDescription": "",
+            "credits": ""
+        },
+        "CTM": {
+            "cardTitle": "CLM & UUP",
+            "cardText": "Dos programaris per a Windows i sistemes basats en GNOME per millorar el teu flux de treball.",
             "modalLabel": "",
             "modalDescription": "",
             "credits": ""

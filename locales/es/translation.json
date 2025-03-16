@@ -7,10 +7,12 @@
         "UI_mascot": "Mascota",
         "UI_contact": "Contacto",
         "UI_goBack": "Volver",
-        "UI_theme": "Cambiar tema",
+        "UI_settings": "Cambiar configuración",
+        "UI_mute": "Silenciar",
+        "UI_theme": "Tema",
         "UI_theme_dark": "Tema oscuro base",
         "UI_theme_light": "Tema claro base",
-        "UI_language": "Cambiar idioma",
+        "UI_language": "Idioma",
         "UI_language_en": "English (en)",
         "UI_language_es": "Español (es)",
         "UI_language_ca": "Català (ca)",
@@ -46,7 +48,7 @@
             "cardText": "Estás aquí. Esta sección te enseñará un poco de información sobre este sitio y su desarrollo.",
             "modalLabel": "Web de KosmicTeal en Github",
             "modalDescription": "Esta página web ha tenido muchas revisiones desde su primera creación en 2022.\nInicialmente era una página estática usando principalmente HTML, CSS y la UI de Bootstrap como base. Posteriormente, el 14/01/2023 se añadió un botón para cambiar entre su tema Oscuro y Claro.\n\nSe añadieron traducciones junto a su rework en React y Vite el 26/08/2023; y se añadió un easter egg el 03/09/2023.\n\nPara su tercera versión, se ha hecho un rework desde cero de toda la web, aprovechando los nuevos conocimientos sobre Front-end, mejorando la interfaz y añadiendo interacciones con el usuario.",
-            "credits": ""
+            "credits": "Efectos de sonido de la web por Nathan Gibson (https://nathangibson.myportfolio.com)"
         },
         "CTS": {
             "cardTitle": "Clip The Surface",
@@ -135,6 +137,13 @@
         "BOD": {
             "cardTitle": "Boreal Dragon UI",
             "cardText": "Componentes personalizables y elegants para React. Rompe las normas.",
+            "modalLabel": "",
+            "modalDescription": "",
+            "credits": ""
+        },
+        "CTM": {
+            "cardTitle": "CLM & UUP",
+            "cardText": "Dos programas para Windows y sistemas basados en GNOME para mejorar tu flujo de trabajo.",
             "modalLabel": "",
             "modalDescription": "",
             "credits": ""

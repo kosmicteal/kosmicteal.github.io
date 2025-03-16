@@ -7,10 +7,16 @@
         "UI_mascot": "Mascot",
         "UI_contact": "Contact",
         "UI_goBack": "Go back",
-        "UI_theme": "Change theme",
-        "UI_theme_dark": "Default dark theme",
-        "UI_theme_light": "Default light theme",
-        "UI_language": "Change language",
+        "UI_settings": "Change settings",
+        "UI_mute": "Mute",
+        "UI_theme": "Theme",
+        "UI_theme_light": "Default light",
+        "UI_theme_dark": "Default dark",
+        "UI_theme_tritanopia_light": "Tritanopia light",
+        "UI_theme_tritanopia_dark": "Tritanopia dark",
+        "UI_theme_monochromatic_light": "Monochromatic light",
+        "UI_theme_monochromatic_dark": "Monochromatic dark",
+        "UI_language": "Language",
         "UI_language_en": "English (en)",
         "UI_language_es": "Español (es)",
         "UI_language_ca": "Català (ca)",
@@ -46,7 +52,7 @@
             "cardText": "You're here. This card will show a bit of info about this website and its development.",
             "modalLabel": "KosmicTeal Github website",
             "modalDescription": "This website has had many revisions since its first creation in 2022.\nInitially it was a static page using mainly HTML, CSS and Bootstrap UI as a base. Subsequently, on 14/01/2023 a button was added to switch between its Dark and Light theme.\n\nTranslations were added along with its rework in React and Vite on 08/26/2023; and an easter egg was added on 09/03/2023.\n\nFor its third version, the whole website has been reworked from scratch, taking advantage of the new Front-end knowledge, improving the interface and adding user interactions.",
-            "credits": ""
+            "credits": "Website SFX by Nathan Gibson (https://nathangibson.myportfolio.com)"
         },
         "CTS": {
             "cardTitle": "Clip The Surface",
@@ -135,6 +141,13 @@
         "BOD": {
             "cardTitle": "Boreal Dragon UI",
             "cardText": "Customizable and stylish components for React. Break the conventions.",
+            "modalLabel": "",
+            "modalDescription": "",
+            "credits": ""
+        },
+        "CTM": {
+            "cardTitle": "CLM & UUP",
+            "cardText": "Two software utilities for Windows and GNOME-based systems to improve your workflow.",
             "modalLabel": "",
             "modalDescription": "",
             "credits": ""
