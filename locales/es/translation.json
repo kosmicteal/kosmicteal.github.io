@@ -100,7 +100,7 @@
             "credits": "Blender pertenece a Blender Foundation. Adaptado de trozos de código pertenecientes a p2or, brockmann, Opponent019, batFINGER y Lemon de Blender's Stackexchange."
         },
         "CS": {
-            "cardTitle": "ColorSynth",
+            "cardTitle": "Color Synth",
             "cardText": "Aplicación que permite a los usuarios editar los colores de sus pistas en SynthV.",
             "modalLabel": "ColorSynth",
             "modalDescription": "Aplicación que se creó en primer lugar como una forma de personalizar el color de cada \"pista\" disponible en un proyecto de Synthesizer V Studio sin necesidad de usar ningún tipo de Plugin.\n\nEsto se hizo rápidamente en una tarde mientras intentaba leer cómo se generaban los archivos .svp y aprendía a leer y escribir datos en un archivo JSON. Como por aquel entonces sólo programaba UIs con Windows Forms, tuve que ceñirme a ese método durante un buen tiempo.\n\nDos años después del lanzamiento de este proyecto, la versión 1.10.0 de Synthesizer V Studio incluía una forma de cambiar los colores de las pistas directamente desde la propia interfaz.",
@@ -141,12 +141,19 @@
             "modalDescription": "",
             "credits": ""
         },
-        "CTM": {
-            "cardTitle": "CLM & UUP",
-            "cardText": "Dos programas para Windows y sistemas basados en GNOME para mejorar tu flujo de trabajo.",
-            "modalLabel": "",
-            "modalDescription": "",
-            "credits": ""
+        "SMR": {
+            "cardTitle": "Surface MR",
+            "cardText": "Aplicación ligera de Windows que cambia manualmente el modo Tablet",
+            "modalLabel": "SurfaceManualRotation",
+            "modalDescription": "En Windows 10, podías activar manualmente el modo Tableta en los PC compatibles. Esto se eliminó en Windows 11, optando por un check cada vez que un teclado fuera reconocido en el sistema operativo. \n\nPor alguna razón en mi PC, no cambia automáticamente cuando no tengo mi teclado conectado, así que hice esta pequeña aplicación para hacer el cambio manualmente.\n\nEsta aplicación puede funcionar junto con ClipTheSurface para facilitar los cambios entre los modos de Slate.",
+            "credits": "Surface pertenece a Microsoft."
+        },
+        "UUP": {
+            "cardTitle": "UbuntUptime",
+            "cardText": "Extensión de GNOME que permite ver el tiempo de actividad del PC directamente desde la barra de tareas superior.",
+            "modalLabel": "UbuntUptime",
+            "modalDescription": "Esta extensión de GNOME te permite ver el tiempo de actividad de tu PC directamente desde la barra de tareas superior. Bastante fácil y ligero.\n\nFue creada originalmente porque conky no se iniciaba correctamente en mi entorno Ubuntu así que, tras varios intentos, decidí ir directamente a lo único que me interesaba; que es ver cuántas horas llevo programando.",
+            "credits": "GNOME pertenece a The GNOME Project."
         }
     }
 }

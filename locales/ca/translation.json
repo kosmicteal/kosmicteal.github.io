@@ -51,21 +51,21 @@
             "credits": "Efectes de so de la web per Nathan Gibson (https://nathangibson.myportfolio.com)"
         },
         "CTS": {
-            "cardTitle": "ClipTheSurface",
+            "cardTitle": "Clip The Surface",
             "cardText": "Superposició que et permet l'ús de diverses eines mentre dibuixes a Clip Studio Paint.",
             "modalLabel": "ClipTheSurface",
             "modalDescription": "Aquest programari funciona en mode superposició i emula les tecles modificadores com les tecles de fletxa al teu PC.\nEl \"Mode d'enfocament complet\", mostrat amb una icona de tauleta, posa Clip Studio Paint en un mode \"sense menú\", canvia la configuració de Windows perquè la barra de tasques s'oculti automàticament mentre el mode està activat i mostra un rellotge en cas que vulgueu tenir en compte l'hora sense mostrar la barra de tasques.\nAquesta aplicació va ser creada amb la plataforma Surface al cap, però també funcionarà en qualsevol altre tipus de Tablet PC.\n\nCom a nota, aquesta aplicació sempre estarà a la part central dreta de la pantalla, sense importar si estàs en mode vertical o horitzontal, i es pot ocultar quan vulguis. També té una funció especial que, si es vincula a una acció del botó del llapis, podeu obrir o tancar l'aplicació directament.",
             "credits": "Clip Studio Paint pertany a CELSYS."
         },
         "ESD": {
-            "cardTitle": "EasySynthDrop",
+            "cardTitle": "Easy Synth Drop",
             "cardText": "Crea noves pistes arrossegant i deixant anar els teus bancs de Synthesizer V Studio al programa.",
             "modalLabel": "EasySynthDrop",
             "modalDescription": "Aquest programari llegeix la teva carpeta de bancs de veu de SynthV i et permet arrossegar i deixar anar un dels teus bancs (l'última versió que hagis instal·lat) a SynthV per crear una nova pista fàcilment.\n\nÚnicament llegeix el nom de les carpetes de cada banc, crea un fitxer buit i et permet deixar-lo anar al programa, per la qual cosa és segur d'utilitzar.\n\nUna petita nota, aquest és el primer programari que he fet que té en compte el DPI de la pantalla, amb les seves animacions i mida relativa compatibles als canvis de DPI.",
             "credits": "Synthesizer V Studio pertany a Dreamtonics."
         },
         "KVMA": {
-            "cardTitle": "KosmicVMApplets",
+            "cardTitle": "Kosmic VM Applets",
             "cardText": "Grup d'applets que et permeten facilitar l'ús de VirtualBox per estalviar-te obrir el terminal.",
             "modalLabel": "KosmicVMApplets",
             "modalDescription": "Aquests applets permeten interactuar fàcilment amb vboxmanage.exe de VirtualBox perquè els usuaris no necessitin entrar al CMD de Windows.\nDurant el meu aprenentatge, em vaig trobar amb la necessitat d'accedir a algunes dades o organitzar les Màquines Virtuals d'una manera fàcil. Com que també ens estàvem centrant a aprendre més sobre WinForms i Visual Studio, vaig decidir crear aquests per fer el meu aprenentatge una mica més fàcil.\n\nActualment hi ha dos applets:\n\n• VMIPCheck: Mostra una notificació de Windows amb la IP principal del teu MV\n• VMIconChange: Applet amb una UI senzilla que et permet canviar la icona de la VM que vulguis en lloc d'escriure-ho al terminal.",
@@ -86,21 +86,21 @@
             "credits": "Miniatures fetes per LuxiayK. Cada personatge pertany a la seva respectiva companyia."
         },
         "VSP": {
-            "cardTitle": "VocalSynthPlugins",
+            "cardTitle": "Vocal Synth Plugins",
             "cardText": "Plugins per a diferents sintetitzadors de veu que permeten scripts per facilitar-ne l'ús.",
             "modalLabel": "VocalSynthPlugins",
             "modalDescription": "Grup de Plugins que van ser creats per tal de fer més fàcil el flux de treball musical en sintetitzadors de veu que permeten scripts.\r\n\r\nL'API dels sintetitzadors era força restrictiva en el seu moment de manera que, no podia deixar fluir molt la meva imaginació, i molt menys quan tractar de trobar SDK/API de programari antic era gairebé impossible. No obstant això, vaig poder fer alguns addons sol·licitats per la comunitat. Actualment hi ha tres addons:\r\n\r\n• ListKeyNotes: Crea notes de la mateixa longitud en una escala específica\r\n• Crash-B-Gone for Tonio: Substitueix totes les @ per V\r\n• VocaAutoPitch (April Fools 2021): Afegeix les quatre primeres notes de Megalovanie de Toby Fox de UNDERTALE.",
             "credits": "VOCALOID pertany a Yamaha."
         },
         "LBS": {
-            "cardTitle": "LameBlenderScripts",
+            "cardTitle": "Lame Blender Scripts",
             "cardText": "Conjunt de plugins per a Blender (2.8+) creats per millorar el flux en el desenvolupament de models 3D.",
             "modalLabel": "LameBlenderScripts",
             "modalDescription": "Grup de Plugins que van ser adaptats a partir de codi existent per tal de fer diverses tasques de desenvolupament 3D més fàcils.\n\nVaig trigar al voltant d'un mes a tenir el conjunt complet, ja que estava desenvolupant un model i estava cansat de fer coses repetitives manualment. Les principals funcionalitats són:\n\n• Reflecteix les Shapekeys acabades en .L i crea versions duals (.L+.R)\n• Selecciona ossos en ordre, connectant-los i reanomenant tota la pila amb la nomenclatura estàndard pare-fill\n• Invertiu l'eix de cua dels ossos, per ser usat amb la funcionalitat anterior o per si mateix\n• Reanomena ossos i grups de vèrtexs de Standard Blender a Standard MikuMikuDance\n• Afegeix objectes buits que més tard serien entesos per mmd_tools com a Joints.",
             "credits": "Blender pertany a Blender Foundation. Adaptat de trossos de codi pertanyents a p2or, brockmann, Opponent019, batFINGER i Lemon de Blender's Stackexchange."
         },
         "CS": {
-            "cardTitle": "ColorSynth",
+            "cardTitle": "Color Synth",
             "cardText": "Aplicació que permet als usuaris editar els colors de les pistes a SynthV.",
             "modalLabel": "ColorSynth",
             "modalDescription": "Aplicació que es va crear en primer lloc com una forma de personalitzar el color de cada \"pista\" disponible en un projecte de Synthesizer V Studio sense necessitat dutilitzar cap tipus de Plugin.\n\nAixò es va fer ràpidament en una tarda mentre intentava llegir com es generaven els fitxers .svp i aprenia a llegir i escriure dades en un fitxer JSON. Com aleshores només programava UIs amb Windows Forms, vaig haver de cenyir-me a aquest mètode durant un bon temps.\n\nDos anys després del llançament d'aquest projecte, la versió 1.10.0 de Synthesizer V Studio incloïa una manera de canviar els colors de les pistes directament des de la pròpia interfície.",
@@ -141,12 +141,19 @@
             "modalDescription": "",
             "credits": ""
         },
-        "CTM": {
-            "cardTitle": "CLM & UUP",
-            "cardText": "Dos programaris per a Windows i sistemes basats en GNOME per millorar el teu flux de treball.",
-            "modalLabel": "",
-            "modalDescription": "",
-            "credits": ""
+        "SMR": {
+            "cardTitle": "Surface MR",
+            "cardText": "Programari lleuger de Windows que canvia manualment el mode Tauleta",
+            "modalLabel": "SurfaceManualRotation",
+            "modalDescription": "En Windows 10, podies activar manualment el mode Tauleta en els PC compatibles. Això es va eliminar en Windows 11, optant per un check cada vegada que un teclat fos reconegut en el sistema operatiu.\n\nPer alguna raó en el meu PC, no canvia automàticament quan no tinc el meu teclat connectat, així que vaig fer aquesta petita aplicació per a fer el canvi manualment.\n\nAquesta aplicació pot funcionar juntament amb ClipTheSurface per a facilitar els canvis entre els modes de Slate.",
+            "credits": "Surface pertany a Microsoft."
+        },
+        "UUP": {
+            "cardTitle": "UbuntUptime",
+            "cardText": "Extensió de GNOME que permet veure el temps d'activitat del PC directament des de la barra de tasques superior.",
+            "modalLabel": "UbuntUptime",
+            "modalDescription": "Aquesta extensió de GNOME et permet veure el temps d'activitat del teu PC directament des de la barra de tasques superior. Bastant fàcil i lleuger.\n\nVa ser creada originalment perquè conky no s'iniciava correctament en el meu entorn Ubuntu així que, després de diversos intents, vaig decidir anar directament a l'única cosa que m'interessava; que és veure quantes hores porto programant.",
+            "credits": "GNOME pertany a The GNOME Project."
         }
     }
 }

@@ -42,7 +42,7 @@
     "projects": {
         "RAR": {
             "cardTitle": "reActionroll",
-            "cardText": "Web application that allows TTRPG players to do combat-oriented summaries of their Character Sheets.",
+            "cardText": "Web app that allows TTRPG players to do combat-oriented summaries of their Character Sheets.",
             "modalLabel": "reActionroll",
             "modalDescription": "I am currently taking this as a hobby project so updates might come randomly from time to time. Feel free to report any bug or suggestion on its Github repository and I will tackle them when time allows me to do so.\n\nThat page has been done with React, Redux and other Open Source technologies. Detailed information about this project can be found on the About page.",
             "credits": "All product and company names are trademarks or registered trademarks of their respective copyright holders. No copyright has been infringed with this application."
@@ -145,12 +145,19 @@
             "modalDescription": "",
             "credits": ""
         },
-        "CTM": {
-            "cardTitle": "CLM & UUP",
-            "cardText": "Two software utilities for Windows and GNOME-based systems to improve your workflow.",
-            "modalLabel": "",
-            "modalDescription": "",
-            "credits": ""
+        "SMR": {
+            "cardTitle": "Surface MR",
+            "cardText": "Lightweight Windows application that manually changes the Slate/Landscape Mode",
+            "modalLabel": "SurfaceManualRotation",
+            "modalDescription": "Back in Windows 10, you could manually toggle Tablet mode in compatible PCs. This was removed on Windows 11, opting for a check whenever a Keyboard was recognized on the OS. \n\nFor some reason on my PC, it doesn't automatically swap when I don't have my Keyboard connected so, I did this small app to do the change manually.\n\nThis app can work alongside ClipTheSurface to enable easier switches between Slate modes.",
+            "credits": "Surface belongs to Microsoft."
+        },
+        "UUP": {
+            "cardTitle": "UbuntUptime",
+            "cardText": "GNOME extension that allows you to see your PC's uptime directly from your top task bar",
+            "modalLabel": "UbuntUptime",
+            "modalDescription": "This GNOME extension allows you to see your PC's uptime directly from your top task bar. Quite easy and lightweight.\n\nIt was created originally because conky wouldn't properly load on my Ubuntu environment so, after several tries, I decided to directly get the only thing I was interested; which is to see how many hours have I been programming.",
+            "credits": "GNOME belongs to The GNOME Project."
         }
     }
 }
